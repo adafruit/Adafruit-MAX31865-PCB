@@ -1,4 +1,4 @@
-#@ Adafruit MAX31865 PCB
+## Adafruit MAX31865 PCB
 
 <a href="http://www.adafruit.com/products/3328"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
